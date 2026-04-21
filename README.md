@@ -6,7 +6,7 @@ This repository contains the AWS VPC setup used for lab assignments. The diagram
 
 
 
-![VPC Diagram](Screenshot from 2025-12-12 00-29-48.png)
+[VPC Diagram](https://github.com/Anas-A079/AWS-Assignments/blob/c3f938de17530fe884681a221f7b14d31d1c0155/Screenshot%20from%202025-12-12%2000-29-48.png)
 
 ## Files
 
