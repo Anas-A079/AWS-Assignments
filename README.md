@@ -6,7 +6,7 @@ This repository contains the AWS VPC setup used for lab assignments. The diagram
 
 
 
-![VPC Diagram](vpc-diagram.png)
+![VPC Diagram](Screenshot from 2025-12-12 00-29-48.png)
 
 ## Files
 
